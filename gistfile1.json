@@ -1,0 +1,70 @@
+{
+  "id" : "A2XAHXTMZRBSI7#1421212277590",
+  "imageReference" : {
+    "fallbackIcon" : null,
+    "referenceType" : "UrlImageReference",
+    "url" : "http:\/\/ecx.images-amazon.com\/images\/S\/com.evi.images-irs\/9f\/9ff2244cb9572e4deb117e0667ef059a._UL540_.png"
+  },
+  "deleteCardAction" : {
+    "cardId" : "A2XAHXTMZRBSI7#1421212277590",
+    "actionType" : "DeleteCardAction",
+    "mainText" : "Remove card",
+    "subText" : "Learn more",
+    "subTextRoute" : "help\/node\/201602230"
+  },
+  "primaryActions" : [
+    {
+      "url" : "http:\/\/en.wikipedia.org\/wiki\/United_States",
+      "actionType" : "OpenUrlAction",
+      "mainText" : "Learn more on Wikipedia",
+      "subText" : null,
+      "subTextRoute" : null
+    }
+  ],
+  "subtitle" : "Q&A",
+  "nBestOptions" : null,
+  "creationTimestamp" : 1421212277590,
+  "wrapTitle" : true,
+  "descriptiveText" : [
+    "Sacramento, CA is the capital of the US state California."
+  ],
+  "giveFeedbackAction" : {
+    "actionType" : "NavigateAction",
+    "mainText" : "Thank you! Your feedback helps Echo understand you better.",
+    "subTextRoute" : null,
+    "subText" : "Send more detailed feedback.",
+    "musicCustomerId" : null,
+    "route" : "beta-feedback",
+    "serviceName" : null
+  },
+  "registeredCustomerId" : "A2XAHXTMZRBSI7",
+  "playbackAudioAction" : {
+    "url" : "\/api\/utterance\/audio\/data?id=AB72C64C86AW2:1.0\/2015\/01\/14\/05\/B0F00712448402C5\/11:14::TNIH_2V.5a90e3b2-97ce-41eb-b69f-085211147a03ZXV\/0",
+    "actionType" : "PlayAudioAction",
+    "mainText" : "Echo heard: \"where is sacramento\"",
+    "subText" : null,
+    "subTextRoute" : null
+  },
+  "thumbsUpDownActivityAction" : {
+    "subTextRoute" : null,
+    "actionType" : "ThumbsUpDownActivityAction",
+    "activityId" : "A2XAHXTMZRBSI7#1421212277590",
+    "mainText" : "Did Echo hear you correctly?",
+    "subText" : null
+  },
+  "cardType" : "StandardCard",
+  "title" : "Where is sacramento?",
+  "secondaryActions" : null,
+  "imageAction" : {
+    "url" : "http:\/\/en.wikipedia.org\/wiki\/File:Flag_of_the_United_States.svg",
+    "actionType" : "OpenUrlAction",
+    "mainText" : "from Wikipedia",
+    "subText" : null,
+    "subTextRoute" : null
+  },
+  "sourceDevice" : {
+    "type" : "AB72C64C86AW2",
+    "serialNumber" : "B0F00712448402C5"
+  },
+  "imageCaption" : "from Wikipedia"
+}
